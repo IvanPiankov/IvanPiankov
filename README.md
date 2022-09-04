@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+This is my github page
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPiankov&show_icons=true)](https://github.com/IvanPiankov)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanPiankov&layout=compact)](https://github.com/IvanPiankov)
+
 <!--
 **IvanPiankov/IvanPiankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
