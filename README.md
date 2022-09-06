@@ -2,21 +2,22 @@
 
 ---
 
-### About me
+### About me 🔭
 
 <p><img src="https://img.shields.io/badge/Web-Backend-9cf" alt="web"/>
 <img src="https://img.shields.io/badge/Bio-Bioinformatician-green" alt="bio"/></p>
 
+Меня зовут Пьянков Иван и я знаимаюсь веб разработкой, а в свободное время занимаюсь биоинформатикой.
 
-* Занимаюсь Бэкенд разработкой на Python
 * Создаю микросервисы для различных задач в том числе биологических
 * Моё хобби и научная работа - это структурная и геномная биоинформатика
+* Прошёл курсы от компании EPAM тренниг центр
 * Активно занимаюсь самообразованием
 
 
 ---
 
-### Languages
+### Languages 📖
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=SQLite&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
@@ -32,7 +33,7 @@
 
 ---
 
-### Technologies
+### Technologies ⚒️
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
@@ -43,15 +44,22 @@
 
 ---
 
-### My web project 
+### My web project 🌏
 
-Celery
+Со всеми моими проектами в том числе и учебными 
+* Мой первый бекэнд проект посвящен созданию игры tic-tac-toe на Django 
+с использованием DRF и WebSocket.
+* Микросервис на FastAPI для выдачи биологических данных
+* Тестовый проект написанный на Django
 
-### My bioinformatics project
+### My bioinformatics project 🌱 
+
+* Инсутрмент для работы с метагеномами
+* Инструмента для создания модели белков, с использованием моделирования по гомологии
 
 ---
 
-### GitHub Stats star
+### GitHub Stats⭐ 	
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPiankov&show_icons=true)](https://github.com/IvanPiankov)
 
@@ -59,22 +67,10 @@ Celery
 
 ---
 
-### Contacts
+### Contacts 📫
 
 <p align="center">
     <a href="https://github.com/IvanPiankov" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ivanpiankov-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/ivan-pyankov-b6a7b5233/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
