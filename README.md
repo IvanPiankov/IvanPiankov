@@ -1,9 +1,23 @@
 ### Hi there 👋
 
-<a><img src="https://img.shields.io/badge/Back-Backend%20developer-9cf" alt="web"/></a>
-<img src="https://img.shields.io/badge/Bio-Bioinformatics-green" alt="bio"/>
+---
 
-This is my github page
+### About me
+
+<p><img src="https://img.shields.io/badge/Web-Backend-9cf" alt="web"/>
+<img src="https://img.shields.io/badge/Bio-Bioinformatics-green" alt="bio"/></p>
+
+I am bioinformatician and backend developer !
+
+---
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+
+
 
 <a href="https://github.com/IvanPiankov/awesome-github-profile-readme/stargazers">
 
