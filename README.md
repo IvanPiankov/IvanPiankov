@@ -8,8 +8,8 @@
 <img src="https://img.shields.io/badge/Bio-Bioinformatician-green" alt="bio"/></p>
 
 
-My name is Ivan Piankov, and I am web developer, but in my free time would like 
-to do different bioinformatic scripts. Short information about my
+I am Ivan Piankov, and I am web developer, but in my free time I would like 
+to do different bioinformatic scripts. Short information about me
 
 * I create microservices for various tasks, including biological ones
 * My hobby and scientific work is structural and genomic bioinformatics
