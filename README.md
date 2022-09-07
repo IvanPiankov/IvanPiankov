@@ -7,12 +7,14 @@
 <p><img src="https://img.shields.io/badge/Web-Backend-9cf" alt="web"/>
 <img src="https://img.shields.io/badge/Bio-Bioinformatician-green" alt="bio"/></p>
 
-Меня зовут Пьянков Иван и я знаимаюсь веб разработкой, а в свободное время занимаюсь биоинформатикой.
 
-* Создаю микросервисы для различных задач в том числе биологических
-* Моё хобби и научная работа - это структурная и геномная биоинформатика
-* Прошёл курсы от компании EPAM тренниг центр
-* Активно занимаюсь самообразованием
+My name is Ivan Piankov, and I am web developer, but in my free time would like 
+to do different bioinformatic scripts. Short information about my
+
+* I create microservices for various tasks, including biological ones
+* My hobby and scientific work is structural and genomic bioinformatics
+* I took courses from EPAM training center
+* I am actively engaged in self-improvement
 
 
 ---
@@ -41,21 +43,23 @@
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=Celery&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
-
+![Snakemake](https://img.shields.io/badge/-Snakemake-darkgreen?style=flat-square)
+![CWL](https://img.shields.io/badge/-CWL-darkred?style=flat-square)
 ---
 
 ### My web project 🌏
 
-Со всеми моими проектами в том числе и учебными 
-* Мой первый бекэнд проект посвящен созданию игры tic-tac-toe на Django 
-с использованием DRF и WebSocket.
-* Микросервис на FastAPI для выдачи биологических данных
-* Тестовый проект написанный на Django
+You can get acquainted with all my projects, including educational ones, in my repository
+
+* My first backend project is dedicated to creating a tic-tac-toe game on Django
+using DRF and WebSockets
+* Microservice on Fast API for issuing biological data
+* A test project written in Django
 
 ### My bioinformatics project 🌱 
 
-* Инсутрмент для работы с метагеномами
-* Инструмента для создания модели белков, с использованием моделирования по гомологии
+* A tool for easily working with metagenomes
+* A tool for creating a protein model using homology modeling connected with tool Rosetta
 
 ---
 
@@ -69,8 +73,8 @@
 
 ### Contacts 📫
 
-<p align="center">
-    <a href="https://github.com/IvanPiankov" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ivanpiankov-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/ivan-pyankov-b6a7b5233/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-</p>
+
+<a href="https://github.com/IvanPiankov" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ivanpiankov-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ivan-pyankov-b6a7b5233/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+
 
