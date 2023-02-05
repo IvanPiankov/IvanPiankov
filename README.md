@@ -75,6 +75,6 @@ using DRF and WebSockets
 
 
 <a href="https://github.com/IvanPiankov" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ivanpiankov-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ivan-pyankov-b6a7b5233/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ivan-piankov-b6a7b5233/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 
